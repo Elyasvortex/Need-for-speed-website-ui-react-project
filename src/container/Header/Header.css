@@ -14,3 +14,7 @@
 .app__header_img img{
   width: 80px;
 }
+
+.headerimg{
+  border-radius: 3%;
+}

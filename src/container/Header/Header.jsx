@@ -20,7 +20,7 @@ const Header = () => (
     <div className="app__wrapper_img">
       <img
         src="https://img.freepik.com/premium-photo/car-racing-high-speed-blurred-background-ai-generated-image_532963-6882.jpg?size=626&ext=jpg"
-        alt="header img"
+        alt="header img" className='headerimg'
       />
     </div>
   </div>
