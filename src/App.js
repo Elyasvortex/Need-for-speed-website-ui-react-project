@@ -12,7 +12,6 @@ const App = () => (
     <Chef />
     <Intro />
     <Gallery />
-    <FindUs />
     <Footer />
   </div>
 );
