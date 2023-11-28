@@ -37,7 +37,6 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Our Moves</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
-          {" "}
           CARS is an incubator for the most innovative products and solutions
           driving the future of the automotive industry. We are made up of
           Cars.com, Dealer Inspire and DealerRater.

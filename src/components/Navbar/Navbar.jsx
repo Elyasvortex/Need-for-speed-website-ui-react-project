@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
-import { MdOutlineRestaurantMenu } from "react-icons/md";
+import { IoCarSport } from "react-icons/io5";
 
-import images from "../../constants/images";
+
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -53,7 +53,7 @@ const Navbar = () => {
 
         {toggleMenu && (
           <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
-            <MdOutlineRestaurantMenu
+            <IoCarSport
               fontSize={27}
               className="overlay__close"
               onClick={() => {
